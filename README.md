@@ -1,1 +1,1 @@
-# course_osis
+# System monitoring tool
